@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=wieczkowskip&color=blue)
 <!--
 **wieczkowskip/wieczkowskip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
